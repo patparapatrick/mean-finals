@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black; /* Setting background color to black */
+    color: red; /* Setting text color to red */
+  }
+  
+  input, button {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid red; /* Setting border color to red */
+    border-radius: 3px;
+    background-color: black; /* Setting background color to black */
+    color: red; /* Setting text color to red */
+  }
+  
+  button:hover {
+    background-color: red; /* Changing background color on hover to red */
+    color: black; /* Changing text color on hover to black */
+  }
